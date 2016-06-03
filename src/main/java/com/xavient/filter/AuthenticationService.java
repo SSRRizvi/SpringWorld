@@ -4,7 +4,11 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 
 import javax.xml.bind.DatatypeConverter;
-
+/**
+ * 
+ * @author srizvi2
+ *
+ */
 public class AuthenticationService {
 	public boolean authenticate(String authCredentials) {
 
